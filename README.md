@@ -1,8 +1,8 @@
-# Insurance-Premium-Predictor
+## Insurance-Premium-Predictor
 
 A machine learning project that predicts the insurance premium a person might be charged based on various attributes like age, BMI, smoking status, and more.
 
-Features
+# Features
 
 Data preprocessing and cleaning
 
@@ -37,7 +37,7 @@ region: Residential region in the US
 charges: Individual medical costs billed by health insurance
 
 
-Tech Stack : 
+# Tech Stack : 
 
 Python 
 
